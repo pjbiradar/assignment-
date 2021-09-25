@@ -1,0 +1,245 @@
+body{
+    background-color: gray;
+}
+.class0{
+    border: 4px solid red;
+    border-radius: 9px;
+    height: 100px;
+    width: 207px;
+    padding: 24px 74px 14px 74px;
+    margin: 4px;
+    text-align: center;
+    background-color: seashell;
+    font-style: oblique;
+    font-weight: bolder;
+    color: deeppink;
+    position: relative;
+    left: 599px;
+    font-size: x-large;
+    box-shadow: 5px 5px purple;
+    text-shadow: 1px 1px deeppink;
+   
+}
+.child1{
+    text-align: center;
+    border: 4px solid red;
+    box-shadow: 5px 5px purple;
+    border-radius: 9px;
+    background-color: seashell;
+    height: 201px;
+    width: 201px;
+    padding: 8px 1px -4px 4px;
+    font-size: x-large;
+    font-weight: bolder;
+    text-shadow: 1px 1px purple;
+    color:purple;
+    line-height: 40px;
+    
+
+}
+.child2{
+    border: 4px solid red;
+    box-shadow: 5px 5px purple;
+    border-radius: 9px;
+    background-color: seashell;
+    height: 201px;
+    width: 201px;
+    margin: 0px;
+    color: purple;
+    display: inline-block;
+    position: relative;
+    left: 1231px;
+    top: -207px;
+    text-align: center;
+   
+}
+.parent{
+    border: 4px solid green;
+    height: 581px;
+}
+.child3{
+    border: 4px solid red;
+    box-shadow: 5px 5px purple;
+    border-radius: 9px;
+    background-color: seashell;
+    height: 201px;
+    width: 201px;
+    margin: 0px;
+    font-size: larger;
+    font-weight: bolder;
+    color: purple;
+    top: -99px;
+    position: relative;
+    text-shadow: 1px 1px purple;
+    line-height: 33px;
+}
+.child4{
+    text-shadow: 1px 1px purple;
+    border: 4px solid red;
+    box-shadow: 5px 5px purple;
+    border-radius: 9px;
+    background-color: seashell;
+    height: 201px;
+    width: 201px;
+    /* padding: 8px 74px 14px 74px; */
+    margin: 1px;
+    font-size:medium;
+    font-weight: bolder;
+    color: purple;
+    text-align: center;
+    position: relative;
+    top: -274px;
+    left: 1279px;
+    text-align: center;
+
+    
+}
+.child6{
+    background-color: red;
+    width: 100px;
+    border-radius: 10px;
+    font-size: small;
+    left: 20px;
+}
+.child5{
+    width: 100px;
+    font-size: smaller;
+    position: absolute;
+    padding-bottom: 2px;
+    left: 54px;
+    text-shadow: 1px 1px purple;
+}
+.parent1{
+    font-weight: 9;
+    text-shadow: -1px -1px purple;
+    position: relative;
+    width: 191px;
+    height: 16px;
+    padding-left: 8px;
+    margin-top: 10px;
+    line-height: 23px;
+}
+.childj{
+    width: 170px;
+    margin-top: 49px;
+    height: 105px;
+}
+.child7{
+    position:sticky;
+    bottom: 378px;
+    border-radius: 11px;
+    border: 4px solid red;
+    width: 354px;
+    box-shadow: 6px 5px purple;
+    background-color: greenyellow;
+    height: 66px;
+    font-size: larger;
+    color: brown;
+    font-style: italic;
+    font-weight: bolder;
+    padding-left: 26px;
+    padding-top: 17px;
+    margin: 27px;
+    margin-left: 491px;
+}
+.child8{
+    padding-left: 197px;
+    position: relative;
+    bottom: 62px;
+    left: 14px;
+    font-size: smaller;
+}
+.child9{
+    border: 6px solid purple;
+    border-radius: 8px;
+    width: 837px;
+    height: 515px;
+    background-color: green;
+    color: black;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align:center;
+    padding-top: 10px;
+    position: relative;
+    left: 200px;
+}
+.child10{
+    border: 2px solid white;
+    border-radius: 1px;
+    background-color: lightgoldenrodyellow;
+    font-size: smaller;
+    font-style: italic;
+    padding-top: 47px;
+    width: 410px;
+    height: 200px;
+    margin-top: 27px;
+    position: relative;
+    left: 3px;
+}
+.child11{
+    font-size: smaller;
+    color: black;
+    font-weight: 100;
+}
+.child12{
+    border: 2px solid white;
+    border-radius: 1px;
+    background-color: lightgoldenrodyellow;
+    font-size: smaller;
+    font-style: italic;
+    padding-top: 47px;
+    width: 410px;
+    height: 200px;
+    margin-top: 27px;
+    position: relative;
+    left: 7px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+   
+}
+.child13{
+    font-size: smaller;
+    color: black;
+    font-weight: 100;
+}
+.child14{
+    border: 1px solid white;
+    border-radius: 1px;
+    font-size: larger;
+    font-style: italic;
+    color: black;
+    width: 835px;
+    height: 164px;
+    position: relative;
+    top: 8px;
+    left: 5px;
+    padding-top: 30px;
+    background-color: palevioletred;
+}
+.child15{
+    font-size: large;
+    font-weight: 100;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
