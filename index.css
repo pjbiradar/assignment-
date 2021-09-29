@@ -1,5 +1,8 @@
 body{
     background-color: gray;
+    /* position: sticky;
+    bottom: 100px;
+    */
 }
 .class0{
     border: 4px solid red;
@@ -125,7 +128,6 @@ body{
     height: 105px;
 }
 .child7{
-    position:sticky;
     bottom: 378px;
     border-radius: 11px;
     border: 4px solid red;
@@ -141,6 +143,8 @@ body{
     padding-top: 17px;
     margin: 27px;
     margin-left: 491px;
+    position: sticky;
+    bottom: 179px;
 }
 .child8{
     padding-left: 197px;
